@@ -1,6 +1,6 @@
 # gnavi-gulp-boiler-pug-webpack-postcss
 
-- [gnavi-gulp-boiler-pug-webpack-postcssリポジトリ](https://github.com/gurunavi-creators/gnavi-gulp-boiler-pug-webpack-postcss)
+- [リポジトリ](https://github.com/gurunavi-creators/gnavi-gulp-boiler-pug-webpack-postcss)
 
 # プレビュー
 
